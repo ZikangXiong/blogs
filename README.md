@@ -9,3 +9,5 @@ Neurosymbolic Reinforcement Learning with Formally Verified Exploration, Greg An
 ## Graph Neural Network
 Daniel Zügner and Stephan Günnemann. Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations. KDD '20 [note](notebooks/daniel_certifiable_kdd20.ipynb)  
 
+## Reinforcement Learning
+[Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations](notebooks/huang_robustRL_nips20.ipynb)

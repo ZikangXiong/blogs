@@ -12,5 +12,4 @@ NBDT: Neural-Backed Decision Trees [note](notebooks/NBDT.ipynb)
 Daniel Zügner and Stephan Günnemann. Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations. KDD '20 [note](notebooks/daniel_certifiable_kdd20.ipynb)  
 
 ## Reinforcement Learning
-Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations, NeuraIPS 20'[note](notebooks/huang_robustRL_nips20.ipynb)
-
+Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations. [note](notebooks/huang_robustRL_nips20.ipynb)

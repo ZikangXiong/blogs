@@ -44,7 +44,7 @@ def generate_readme():
             for file in ipy:
                 link = generate_link(k, file)
                 title = get_title(link)
-                f.write(f"{title} [note]({link})  \n")
+                f.write(f"{title} [note]({link.replace(' ', '%20')})  \n")
 
 
 def deploy():

@@ -1,6 +1,6 @@
 # Blogs
-Paper Reading Blogs 📚  
-If github stop rendering, [open with mybinder](https://mybinder.org/v2/gh/ZikangXiong/blogs/main).  
+Paper reading blogs 📚  
+If github fails to load, [open with mybinder](https://mybinder.org/v2/gh/ZikangXiong/blogs/main).  
 
 ## Adversarial AI
 Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations [note](notebooks/Adversarial%20AI/huang_robustRL_nips20.ipynb)  
@@ -11,6 +11,7 @@ NBDT: Neural-Backed Decision Trees [note](notebooks/Neural%20Symbolic/NBDT.ipynb
 Neuro-symbolic Reinforcement Learning with Formally Verified Exploration [note](notebooks/Neural%20Symbolic/greg_neurosymbolic_nips20.ipynb)  
 The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision [note](notebooks/Neural%20Symbolic/mao_neurosymbolic_ICLR2019.ipynb)  
 ## Tools
+How to Write Human Readable Code [note](notebooks/Tools/human_readable_code.ipynb)  
 Matlab Python API [note](notebooks/Tools/matlab_python_api.ipynb)  
 ## Verifiable AI
 Parallelizable Reachability Analysis Algorithms for Feed-Forward Neural Networks [note](notebooks/Verifiable%20AI/Polyhedron.ipynb)  

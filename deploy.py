@@ -3,7 +3,7 @@ import json
 import shutil
 import datetime
 
-IGNORE = [".ipynb_checkpoints", "res"]
+IGNORE = [".ipynb_checkpoints", "res", "_draft"]
 
 
 def get_title(file_path):

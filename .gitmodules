@@ -1,0 +1,3 @@
+[submodule "notebooks/Verifiable AI/res/ARCH2020_NLN_RE"]
+	path = notebooks/Verifiable AI/res/ARCH2020_NLN_RE
+	url = https://github.com/JuliaReach/ARCH2020_NLN_RE.git

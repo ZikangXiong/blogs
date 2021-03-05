@@ -9,6 +9,7 @@ Explain Your Move: Understanding Agent Actions Using Specific and Relevant Featu
 ## Neural Symbolic
 NBDT: Neural-Backed Decision Trees [note](notebooks/Neural%20Symbolic/NBDT.ipynb)  
 Neuro-symbolic Reinforcement Learning with Formally Verified Exploration [note](notebooks/Neural%20Symbolic/greg_neurosymbolic_nips20.ipynb)  
+DeepSynth: Automata Synthesis for Automatic Task Segmentation in Deep Reinforcement Learning  [note](notebooks/Neural%20Symbolic/deepsynth.ipynb)  
 The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision [note](notebooks/Neural%20Symbolic/mao_neurosymbolic_ICLR2019.ipynb)  
 ## Tools
 How to Write Human Readable Code [note](notebooks/Tools/human_readable_code.ipynb)  

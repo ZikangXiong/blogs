@@ -14,6 +14,7 @@ The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences Fr
 How to Write Human Readable Code [note](notebooks/Tools/human_readable_code.ipynb)  
 Matlab Python API [note](notebooks/Tools/matlab_python_api.ipynb)  
 Julia Quick Start [note](notebooks/Tools/julia_quick_start.ipynb)  
+Transformer [note](notebooks/Tools/transformer.ipynb)  
 ## Verifiable AI
 Parallelizable Reachability Analysis Algorithms for Feed-Forward Neural Networks [note](notebooks/Verifiable%20AI/polyhedron.ipynb)  
 Julia Reach [note](notebooks/Verifiable%20AI/julia_reach.ipynb)  

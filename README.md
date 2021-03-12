@@ -13,9 +13,11 @@ DeepSynth: Automata Synthesis for Automatic Task Segmentation in Deep Reinforcem
 The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision [note](notebooks/Neural%20Symbolic/mao_neurosymbolic_ICLR2019.ipynb)  
 ## Tools
 AutoEncoder [note](notebooks/Tools/autoencoder.ipynb)  
+t-SNE [note](notebooks/Tools/t-sne.ipynb)  
 How to Write Human Readable Code [note](notebooks/Tools/human_readable_code.ipynb)  
 Matlab Python API [note](notebooks/Tools/matlab_python_api.ipynb)  
 Julia Quick Start [note](notebooks/Tools/julia_quick_start.ipynb)  
+Self-orgnizing Map [note](notebooks/Tools/self_orgnizing_map.ipynb)  
 Transformer [note](notebooks/Tools/transformer.ipynb)  
 Pytorch Tensorboard [note](notebooks/Tools/torch_tensorboard.ipynb)  
 ## Verifiable AI

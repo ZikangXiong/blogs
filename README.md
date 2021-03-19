@@ -1,14 +1,17 @@
 # Blogs
 Paper reading blogs 📚  
-If github fails to load, [open with mybinder](https://mybinder.org/v2/gh/ZikangXiong/blogs/main).  
+If github fails to load, [open with nbviewer](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/tree/main/).  
 
 ## Machine Learning General
 Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations [note](notebooks/Machine%20Learning%20General/huang_robustRL_nips20.ipynb)  
 AutoEncoder [note](notebooks/Machine%20Learning%20General/autoencoder.ipynb)  
 t-SNE [note](notebooks/Machine%20Learning%20General/t-sne.ipynb)  
+Deep Clustering for Unsupervised Learning of Visual Features [note](notebooks/Machine%20Learning%20General/deep_clustering.ipynb)  
+Unsupervised Clustering using Pseudo-semi-supervised Learning [note](notebooks/Machine%20Learning%20General/unsupervised_claustering_pseudo-semi-supervied_learning.ipynb)  
 Self-orgnizing Map [note](notebooks/Machine%20Learning%20General/self_orgnizing_map.ipynb)  
 Self-Supervised Attention-Aware Reinforcement Learning  [note](notebooks/Machine%20Learning%20General/self_supervised_attention_aware_RL.ipynb)  
 Transformer [note](notebooks/Machine%20Learning%20General/transformer.ipynb)  
+Self Supervised Learning Overview [note](notebooks/Machine%20Learning%20General/self-supervised-learning-overview.ipynb)  
 Explain Your Move: Understanding Agent Actions Using Specific and Relevant Feature Attribution  [note](notebooks/Machine%20Learning%20General/SARAF.ipynb)  
 ## Neural Symbolic
 NBDT: Neural-Backed Decision Trees [note](notebooks/Neural%20Symbolic/NBDT.ipynb)  

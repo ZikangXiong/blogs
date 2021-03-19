@@ -9,13 +9,17 @@ IGNORE = [".ipynb_checkpoints", "res", "_draft", "data"]
 def get_title(file_path):
     with open(file_path, "r") as f:
         note = json.load(f)
-        title = note["cells"][0]["source"][0][2:-1]
+        title = note["cells"][0]["source"][0][2:]
 
     return title
 
 
-def generate_link(topic, file_name):
+def generate_file_path(topic, file_name):
     return f"notebooks/{topic}/{file_name}"
+
+
+def generate_link(topic, file_name):
+    return f"https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/{topic}/{file_name}"
 
 
 def read_all_notes():
@@ -42,8 +46,9 @@ def generate_readme():
         for k, ipy in notes.items():
             f.write(f"## {k}\n")
             for file in ipy:
+                file_path = generate_file_path(k, file)
+                title = get_title(file_path)
                 link = generate_link(k, file)
-                title = get_title(link)
                 f.write(f"{title} [note]({link.replace(' ', '%20')})  \n")
 
 

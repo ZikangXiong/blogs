@@ -27,5 +27,5 @@ Mining Requirements from Closed-Loop Control Models [note](notebooks/Verifiable%
 How to Write Human Readable Code [note](notebooks/Zig%20Zag/human_readable_code.ipynb)  
 Matlab Python API [note](notebooks/Zig%20Zag/matlab_python_api.ipynb)  
 Julia Quick Start [note](notebooks/Zig%20Zag/julia_quick_start.ipynb)  
-PyBullet Quick Start [note](notebooks/Zig%20Zag/pybullet_quick_start.ipynb)  
+PyBullet Quick Star [note](notebooks/Zig%20Zag/pybullet_quick_start.ipynb)  
 Pytorch Tensorboard [note](notebooks/Zig%20Zag/torch_tensorboard.ipynb)  

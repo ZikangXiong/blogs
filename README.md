@@ -33,6 +33,8 @@ DeepSynth: Automata Synthesis for Automatic Task Segmentation in Deep Reinforcem
 The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision
  [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Neural%20Symbolic/mao_neurosymbolic_ICLR2019.ipynb)  
 ## Verifiable AI
+ Deeppoly PyTorch Examples
+ [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Verifiable%20AI/deepoly_examples.ipynb)  
 Parallelizable Reachability Analysis Algorithms for Feed-Forward Neural Networks
  [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Verifiable%20AI/polyhedron.ipynb)  
 Julia Reach

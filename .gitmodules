@@ -4,3 +4,6 @@
 [submodule "notebooks/Neural Symbolic/res/deepsynth"]
 	path = notebooks/Neural Symbolic/res/deepsynth
 	url = /deepsynth
+[submodule "notebooks/Verifiable AI/res/DiffAbs"]
+	path = notebooks/Verifiable AI/res/DiffAbs
+	url = https://github.com/XuankangLin/DiffAbs.git

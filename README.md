@@ -25,6 +25,8 @@ Self Supervised Learning Overview
 Explain Your Move: Understanding Agent Actions Using Specific and Relevant Feature Attribution 
  [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Machine%20Learning%20General/SARAF.ipynb)  
 ## Neural Symbolic
+State Abstraction
+ [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Neural%20Symbolic/state_abstraction.ipynb)  
 NBDT: Neural-Backed Decision Trees
  [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Neural%20Symbolic/NBDT.ipynb)  
 Neuro-symbolic Reinforcement Learning with Formally Verified Exploration

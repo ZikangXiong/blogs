@@ -14,6 +14,8 @@ Deep Clustering for Unsupervised Learning of Visual Features
  [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Machine%20Learning%20General/deep_clustering.ipynb)  
 Unsupervised Clustering using Pseudo-semi-supervised Learning
  [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Machine%20Learning%20General/unsupervised_claustering_pseudo-semi-supervied_learning.ipynb)  
+Hierarchy RL
+ [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Machine%20Learning%20General/hierarchy_rl.ipynb)  
 Self-orgnizing Map
  [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Machine%20Learning%20General/self_orgnizing_map.ipynb)  
 Self-Supervised Attention-Aware Reinforcement Learning 

@@ -56,5 +56,7 @@ Matlab Python API
 Julia Quick Start
  [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Zig%20Zag/julia_quick_start.ipynb)  
 PyBullet Quick Start [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Zig%20Zag/pybullet_quick_start.ipynb)  
+Gym Mini-Grid
+ [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Zig%20Zag/gym_grid_world.ipynb)  
 Pytorch Tensorboard
  [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Zig%20Zag/torch_tensorboard.ipynb)  

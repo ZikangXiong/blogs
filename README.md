@@ -2,7 +2,6 @@
 Zikang's reading notes 📚  
 Default render: [Nbviewer](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/tree/main/)  
 
-## AI-Sys
 ## Machine Learning General
 Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations
  [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Machine%20Learning%20General/huang_robustRL_nips20.ipynb)  

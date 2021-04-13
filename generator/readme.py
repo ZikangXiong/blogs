@@ -43,10 +43,10 @@ def generate_readme():
     shutil.copy(f"{get_root()}/generator/assets/readme_head.md", readme)
 
     with open(readme, "a") as f:
-        for k, ipy in notes.items():
-            f.write(f"## {k}\n")
+        for topic, ipy in notes.items():
+            f.write(f"## {topic}\n")
             for file in ipy:
-                file_path = generate_file_path(k, file)
+                file_path = generate_file_path(topic, file)
                 title = get_title(file_path)
-                link = generate_link(k, file)
-                f.write(f"{title} [note]({link.replace(' ', '%20')})  \n")
+                link = generate_link(topic, file)
+                f.write(f"- {title} [note]({link.replace(' ', '%20')})  \n")

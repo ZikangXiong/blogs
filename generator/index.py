@@ -19,7 +19,7 @@ def fill_template(template_path, tag, content) -> str:
 def generate_index():
     readme = f"{get_root()}/README.md"
     template = f"{get_root()}/generator/assets/template.html"
-    output = f"{get_root()}/index.html"
+    output = f"{get_root()}/docs/index.html"
 
     blog_tag = "{% blog-list %}"
     content = md_to_html(readme)

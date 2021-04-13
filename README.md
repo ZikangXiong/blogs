@@ -1,7 +1,6 @@
 # Blogs (or Notebooks 🤷‍️)  
-Zikang's reading Notes 📚  
-Default Render: [Nbviewer](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/tree/main/).  
-
+Zikang's reading notes 📚  
+Default render: [Nbviewer](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/tree/main/)  
 
 ## AI-Sys
 ## Machine Learning General

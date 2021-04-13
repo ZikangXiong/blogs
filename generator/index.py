@@ -1,4 +1,4 @@
-from utils import get_root
+from .utils import get_root
 import markdown as md
 
 

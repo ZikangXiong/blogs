@@ -1,6 +1,7 @@
 import os
 import datetime
 from generator.readme import generate_readme
+from generator.index import generate_index
 
 
 def deploy():
@@ -13,4 +14,5 @@ def deploy():
 
 if __name__ == '__main__':
     generate_readme()
-    # deploy()
+    generate_index()
+    deploy()

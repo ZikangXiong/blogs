@@ -2,8 +2,8 @@ import os
 import datetime
 import time
 
-from generator.readme import generate_readme
-from generator.index import generate_index
+from generator.readme_generator import generate_readme
+from generator.index_generator import generate_index
 
 
 def deploy():

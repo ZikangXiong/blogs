@@ -37,6 +37,8 @@ Default render: [Nbviewer](https://nbviewer.jupyter.org/github/ZikangXiong/blogs
 - The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision
  [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Neural%20Symbolic/mao_neurosymbolic_ICLR2019.ipynb)  
 ## Planning
+- Optimal Trajectory Generation for Autonomous Vehicles Under Centripetal Acceleration Constraints for In-lane Driving Scenarios
+ [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Planning/speed-planning-apollo.ipynb)  
 - Optimal Vehicle Path Planning Using Quadratic Optimization for Baidu Apollo Open Platform
  [note](https://nbviewer.jupyter.org/github/ZikangXiong/blogs/blob/main/notebooks/Planning/path-planning-apollo.ipynb)  
 ## Verifiable AI
